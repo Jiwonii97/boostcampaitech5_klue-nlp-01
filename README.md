@@ -1,9 +1,12 @@
 # level2_klue-nlp-01
-### 해당 프로젝트는 네이버 커넥트재단 주최한 부스트캠프 AI Tech 5기 NLP 트랙 교육 과정 중 진행된 대회 프로젝트 입니다.
+해당 프로젝트는 네이버 커넥트재단 주최한 부스트캠프 AI Tech 5기 NLP 트랙 교육 과정 중 진행된 대회 프로젝트 입니다.  
+
 ---
 ### 랩업 리포트  
+
 상세한 프로젝트 내용은 랩업 리포트를 참고해주세요!!  
 [Wrap up](./KLUE_NLP_01_Wrap_Report.pdf)
+
 ---
 
 <img src="https://github.com/Jiwonii97/boostcampaitech5_klue-nlp-01/assets/79522982/5a3bd3f1-4f96-4767-a536-a237677a6375" alt="drawing" width="500"/>
